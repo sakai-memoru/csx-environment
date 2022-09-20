@@ -6,9 +6,10 @@
 		<StartupObject>Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <!--
-    <Compile Include="./modules/Module.cs" />
-    -->
+    <Compile Remove="Program.cs" />
   </ItemGroup>
-    
+
+  <ItemGroup>
+    <None Remove="Program.cs" />
+  </ItemGroup>    
 </Project>

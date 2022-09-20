@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fv8fOsGtzbN08kXwVBc68JtuwLW5rPQH9ajMK+p6XxA/Rhk/9Qcd2GG8Omo7Zcx3mKaHJjpPVJh5cAA1CT1hsQ==",
+  "dgSpecHash": "4FApqBQvhTwTtO2zfwuUrArHgbYGdBx25w42a71IsqJsSaLB378YMucV6nIuvF8ilMxYhrBk5DNyWekQqZMCZQ==",
   "success": true,
-  "projectFilePath": "G:\\repos\\cs\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "/home/runner/csx-environment/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
